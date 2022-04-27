@@ -21,7 +21,7 @@
             <div class="header__content" role="banner">
                 <h1 class="header__title">
                     <a href="#" class="header__link" alt="Fylo logo" title="Go to the homepage" role="link">
-                        <img src="/images/logo.svg" class="icon header__icon">
+                        <img src="images/logo.svg" class="icon header__icon">
                     </a>
                 </h1>
                 <nav class="header-menu" role="navigation">
